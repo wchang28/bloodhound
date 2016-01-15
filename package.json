@@ -1,0 +1,21 @@
+{
+  "name": "bloodhound",
+  "description": "Bloodhound suggestion engine",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wen Chang",
+    "email": "wchang28@hotmail.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchang28/bloodhound.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
